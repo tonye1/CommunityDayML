@@ -1,6 +1,8 @@
 ---
 applications:
 - name: CommunityDayMLPythonService
-  memory: 256M
+  memory: 512M
   command: sh run.sh
+  domain: mybluemix.net
+  disk_quota: 1024M
   buildpack:  https://github.com/cloudfoundry/python-buildpack
