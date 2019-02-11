@@ -1,7 +1,7 @@
 # CommunityDayML
 CommunityDay Machine Learning
 ## Architecture
-![Solution overview](./diagrams/architecture.png "Solution overview")
+![Solution overview](./diagrams/Architecture.png "Solution overview")
 ## Two Projects
 ### Model
 Deploy the model first
